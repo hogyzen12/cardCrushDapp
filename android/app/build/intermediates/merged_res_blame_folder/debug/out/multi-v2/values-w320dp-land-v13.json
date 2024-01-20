@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cardcrushdapp-mergeDebugResources-33:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/hogyzen12/.gradle/caches/transforms-3/79b2a7a00b81ce8c7d00ee0f2b2d6cea/transformed/material-1.9.0/res/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,61",
+                        "endOffsets": "105,167"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.cardcrushdapp-mergeDebugResources-33:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/hogyzen12/.gradle/caches/transforms-3/dea67bf57084b49d4e4288de96cb6608/transformed/appcompat-1.5.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
